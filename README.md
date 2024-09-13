@@ -7,18 +7,18 @@
 - B.Tech., Computer Science | SRM University, Chennai, India (_June 2016_)
 
 ## Work Experience
-**Generative AI Developer (Student Assistant) @ E.ON Energy Research Center, Aachen, Germany (_December 2023 – Present_)**
+**Generative AI Developer (Student Assistant) @ E.ON Energy Research Center (_December 2023 – Present_)**
 - Implemented Test Scenarios for Cyber Attack Detection on Power Grid Lines.
 - Developed a chain using RAGs to integrate a Large Language Model for generating attack graphs based on Power Grid network infrastructure context from a Neo4j database. Improved the detection pipeline’s performance by replacing the slower MULVAL-based attack detection method, resulting in a significant boost in efficiency.
 
-**Data Engineer @ Munich RE, Munich, Germany (_April 2023 – October 2023_)**
+**Data Engineer @ Munich RE (_April 2023 – October 2023_)**
 - Processed, cleansed, and analyzed unstructured cyber insurance data from various clients, identifying and rectifying data quality issues to enhance accuracy and reliability for underwriters and risk assessments.
 - Developed Power BI dashboards for internal stakeholders, providing detailed insights and analysis into insurance data.
 
-**Research and Development Engineer @ Dassault Systèmes, Pune, India(_February 2018 – March 2020_)**
+**Research and Development Engineer @ Dassault Systèmes(_February 2018 – March 2020_)**
 - Developed and maintained various components for Dassault’s PLM Tool ENOVIA, including Web UI and backend components.
 
-**Assistant System Engineer @ Tata Consultancy Services (Citi-Bank Client), Pune(_May 2016 - February 2018_)**
+**Assistant System Engineer @ Tata Consultancy Services (_May 2016 - February 2018_)**
 - Java Web Developer for Cross Border Payment Sysem, WorldLink. 
 
 ## Projects
