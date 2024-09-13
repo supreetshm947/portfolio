@@ -50,6 +50,12 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
 7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
 8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
+
+
+
+Foundations of Supervised ML with Graphs - Seminar (https://github.com/supreetshm947/Seminar_report_ESAN), 2022
+Wrote a report on paper Equivariant Subgraph Aggregation Networks which works upon the limitation of Weisfeiler-Leman (WL) Test that is unable to distinguish simple graphs and presents a novel and more expressive method.
+
 9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
 
 - [Data Science Blog](https://medium.com/@shawhin)
