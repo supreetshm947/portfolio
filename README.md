@@ -25,7 +25,7 @@
 ### Learning Heuristics for Counting Problems with GNN - Masters Thesis, 2024
 
 <p align="center">
-  <img src="anycsp_grid.gif" alt="grid">
+  <img src="anycsp_grid.gif" alt="grid"><br>
   <em>ANYCSP enumerating 2-coloring solution for an 11 x 11 grid graph</em>
 </p>
 
