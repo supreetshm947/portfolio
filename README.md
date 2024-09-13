@@ -15,7 +15,7 @@
 - Processed, cleansed, and analyzed unstructured cyber insurance data from various clients, identifying and rectifying data quality issues to enhance accuracy and reliability for underwriters and risk assessments.
 - Developed Power BI dashboards for internal stakeholders, providing detailed insights and analysis into insurance data.
 
-**Research and Development Engineer @ Dassault Systèmes(_February 2018 – March 2020_)**
+**Research and Development Engineer @ Dassault Systèmes (_February 2018 – March 2020_)**
 - Developed and maintained various components for Dassault’s PLM Tool ENOVIA, including Web UI and backend components.
 
 **Assistant System Engineer @ Tata Consultancy Services (_May 2016 - February 2018_)**
@@ -38,10 +38,10 @@ The model introduces a novel Graph Representation called the Constraint Value Gr
   <img src="anycsp_prob_state.jpg" alt="problem_statement"><br>
 </p>
 
-
-
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### CryptoDataPipeline
+<p align="center">
+  <img src="crypto_app.png" alt="crypto_app"><br>
+</p>
 
 Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
