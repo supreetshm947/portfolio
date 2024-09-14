@@ -46,20 +46,22 @@ Developed a comprehensive data pipeline for acquiring both real-time and histori
 
 ### Machine Learning (MLOps) Workflow and Deployment using ZENML for an Image Classification Model
 
-[GitLab](https://github.com/supreetshm947/CryptoDataPipeline)
+[Github](https://github.com/supreetshm947/CryptoDataPipeline)
 
 <p align="center">
   <img src="mlflow_classifier.png" alt="mlflow_classifier"><br>
 </p>
 
+I implemented a holistic machine learning workflow, including deployment, for an image classification model built with PyTorch and trained on the CIFAR-100 dataset. The MLOps pipeline was developed using ZenML for orchestration, covering all stages from data ingestion and processing to model training, evaluation, and deployment. I created a Streamlit application as the web user interface, allowing end users to upload and classify images. Additionally, I set up a FastAPI server for backend services to facilitate communication between the Streamlit app and the deployed model on the MLOps server for inference. The goal was to showcase the integration of machine learning pipelines with MLOps tools and demonstrate how to serve a deep learning model using a modern full-stack setup.
+
 ### Graph Learning, 2021
 
-[GitLab](https://github.com/supreetshm947/GraphLearning)
+[Github](https://github.com/supreetshm947/GraphLearning)
 
 ### AI Snake Game , 2022
 
-[GitLab](https://github.com/supreetshm947/AISnake)
+[Github](https://github.com/supreetshm947/AISnake)
 
 ### Covid Tableau Dashboard, 2022
 
-[GitLab](https://public.tableau.com/app/profile/supreet.sharma/viz/Covid_data_demo)
+[Tableau](https://public.tableau.com/app/profile/supreet.sharma/viz/Covid_data_demo)
