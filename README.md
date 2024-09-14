@@ -1,6 +1,6 @@
 # Data Scientist, Software Developer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, Java, MLOps
+#### Technical Skills: Python, Pytorch, MLOps, DevOps, AWS, DATALAKE, Java, SQL
 
 ## Education				       		
 - M.S., Data Science	| RWTH Aachen University, Aachen, Germany (_November 2024_)	 			        		
