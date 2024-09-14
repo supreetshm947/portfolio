@@ -1,4 +1,4 @@
-# Data Scientist, Software Developer
+# Data Scientist | Software Developer
 
 #### Technical Skills: Python, Pytorch, MLOps, DevOps, AWS, DATALAKE, Java, SQL
 
