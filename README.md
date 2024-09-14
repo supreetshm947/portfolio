@@ -60,7 +60,7 @@ I implemented a holistic machine learning workflow, including deployment, for an
 
 <p align="center">
   <img src="node_embedding.webp" alt="node_embedding"><br>
-  <em>[SOURCE](https://medium.com/the-modern-scientist/graph-neural-networks-series-part-3-node-embedding-36613cc967d5)</em>
+  <em><a href="https://medium.com/the-modern-scientist/graph-neural-networks-series-part-3-node-embedding-36613cc967d5">SOURCE</a></em>
 </p>
 
 
