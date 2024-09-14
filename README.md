@@ -82,4 +82,5 @@ Developed a self-playing Snake game using Reinforcement Learning, leveraging the
   <img src="covid_dashboard.jpg" alt="covid_dashboard"><br>
 </p>
 
+Performed data exploration on Covid data using SQL, and then imported the analyzed data into Tableau to develop a dashboard that visualized Covid infection rates around the world.
 
