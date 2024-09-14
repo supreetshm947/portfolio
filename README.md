@@ -18,7 +18,7 @@
 - Developed and maintained various components for Dassault’s PLM Tool ENOVIA, including Web UI and backend components.
 
 **Assistant System Engineer @ Tata Consultancy Services (_May 2016 - February 2018_)**
-- Java Web Developer for Cross Border Payment Sysem, WorldLink. 
+- Java Web Developer for Cross Border Payment System, WorldLink. 
 
 ## Projects
 ### Learning Heuristics for Counting Problems with Graph Neural Networks - Masters Thesis, 2024
