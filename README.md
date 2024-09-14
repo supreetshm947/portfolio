@@ -35,11 +35,11 @@ Built on the foundation of [ANYCSP](https://arxiv.org/abs/2208.10227), which add
 The model introduces a novel Graph Representation called the Constraint Value Graph, which represents input CSP problems and processes them through a Recurrent Graph Neural Network sampling a list of solutions. It is trained through Reinforcement learning on a configurable training distribution that generates random instances.
 
 ### CryptoDataPipeline
+[Github](https://github.com/supreetshm947/CryptoDataPipeline)
+
 <p align="center">
   <img src="crypto_app_flow.png" alt="crypto_app"><br>
 </p>
-
-[Github](https://github.com/supreetshm947/CryptoDataPipeline)
 
 Developed a comprehensive data pipeline for acquiring both real-time and historical cryptocurrency pricing data, as well as related Reddit submissions. Orchestrated data collection with Apache Airflow and used PySpark to load data into a Datalake via a Minio Docker Container. Implemented real-time trend analysis by collecting Reddit submissions through Airflow DAGs, storing them in Elasticsearch, and later in Datalake parquet format for sentiment analysis. This ongoing personal project focuses on integrating sentiment analysis with pricing data and plans to incorporate LLMs using Retrieval-Augmented Generation (RAG).
 
@@ -65,12 +65,11 @@ I implemented a holistic machine learning workflow, including deployment, for an
 I took a Graph Learning Laboratory course in the Summer of 2021 during my Master's, where I was introduced to and implemented various Graph Learning algorithms, evaluating them on multiple datasets. Throughout the lab, I implemented the Graphlet Kernel and Closed Walk Kernel to obtain vector embeddings and worked on the Weisfeiler-Leman Kernel, computing vector embeddings based on the coloring scheme produced by the algorithm. Additionally, I built a simple Graph Convolution Network (GCN) using a Normalized Adjacency Matrix and Node Attributes for Node Classification. I also implemented a model to compute node2vec embeddings for graphs, training it for Node Classification tasks on the Citeseer and Cora datasets, and Link Prediction tasks on Facebook and PPI datasets. Furthermore, I developed a Message Passing Graph Neural Network and performed a regression task on the ZINC dataset.
 
 ### AI Snake Game , 2022
+[Github](https://github.com/supreetshm947/AISnake)
 
 <p align="center">
   <img src="snake_demo.gif" alt="snake_demo"><br>
 </p>
-
-[Github](https://github.com/supreetshm947/AISnake)
 
 Developed a self-playing Snake game using Reinforcement Learning, leveraging the Bellman Equation to update model parameters. The game’s user interface was created with PyGame, while the model itself was built using PyTorch.
 
