@@ -48,6 +48,10 @@ Developed a comprehensive data pipeline for acquiring both real-time and histori
 
 [GitLab](https://github.com/supreetshm947/CryptoDataPipeline)
 
+<p align="center">
+  <img src="mlflow_classifier.png" alt="mlflow_classifier"><br>
+</p>
+
 ### Graph Learning, 2021
 
 [GitLab](https://github.com/supreetshm947/GraphLearning)
