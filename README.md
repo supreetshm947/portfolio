@@ -3,12 +3,11 @@
 #### Technical Skills: Python, Pytorch, MLOps, DevOps, AWS, DATALAKE, Java, SQL
 
 ## Education				       		
-- M.S., Data Science	| RWTH Aachen University, Aachen, Germany (_November 2024_)	 			        		
+- M.S., Data Science	      | RWTH Aachen University, Aachen, Germany (_November 2024_)	 			        		
 - B.Tech., Computer Science | SRM University, Chennai, India (_June 2016_)
 
 ## Work Experience
 **Generative AI Developer (Student Assistant) @ E.ON Energy Research Center (_December 2023 – Present_)**
-- Implemented Test Scenarios for Cyber Attack Detection on Power Grid Lines.
 - Developed a chain using RAGs to integrate a Large Language Model for generating attack graphs based on Power Grid network infrastructure context from a Neo4j database. Improved the detection pipeline’s performance by replacing the slower MULVAL-based attack detection method, resulting in a significant boost in efficiency.
 
 **Data Engineer @ Munich RE (_April 2023 – October 2023_)**
