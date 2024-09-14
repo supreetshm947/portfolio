@@ -46,7 +46,7 @@ Developed a comprehensive data pipeline for acquiring both real-time and histori
 
 ### Machine Learning (MLOps) Workflow and Deployment using ZENML for an Image Classification Model
 
-[Github](https://github.com/supreetshm947/CryptoDataPipeline)
+[Github](https://github.com/supreetshm947/MLOps_ImageClassification)
 
 <p align="center">
   <img src="mlflow_classifier.png" alt="mlflow_classifier"><br>
@@ -57,6 +57,10 @@ I implemented a holistic machine learning workflow, including deployment, for an
 ### Graph Learning, 2021
 
 [Github](https://github.com/supreetshm947/GraphLearning)
+
+<p align="center">
+  <img src="node_embedding.webp" alt="node_embedding"><br>
+</p>
 
 ### AI Snake Game , 2022
 
