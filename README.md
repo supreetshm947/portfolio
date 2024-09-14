@@ -39,7 +39,7 @@ The model introduces a novel Graph Representation called the Constraint Value Gr
   <img src="crypto_app_flow.png" alt="crypto_app"><br>
 </p>
 
-[GitLab](https://github.com/supreetshm947/CryptoDataPipeline)
+[Github](https://github.com/supreetshm947/CryptoDataPipeline)
 
 Developed a comprehensive data pipeline for acquiring both real-time and historical cryptocurrency pricing data, as well as related Reddit submissions. Orchestrated data collection with Apache Airflow and used PySpark to load data into a Datalake via a Minio Docker Container. Implemented real-time trend analysis by collecting Reddit submissions through Airflow DAGs, storing them in Elasticsearch, and later in Datalake parquet format for sentiment analysis. This ongoing personal project focuses on integrating sentiment analysis with pricing data and plans to incorporate LLMs using Retrieval-Augmented Generation (RAG).
 
