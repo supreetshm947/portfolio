@@ -63,12 +63,24 @@ I implemented a holistic machine learning workflow, including deployment, for an
   <em><a href="https://medium.com/the-modern-scientist/graph-neural-networks-series-part-3-node-embedding-36613cc967d5">SOURCE</a></em>
 </p>
 
-
+I took a Graph Learning Laboratory course in the Summer of 2021 during my Master's, where I was introduced to and implemented various Graph Learning algorithms, evaluating them on multiple datasets. Throughout the lab, I implemented the Graphlet Kernel and Closed Walk Kernel to obtain vector embeddings and worked on the Weisfeiler-Leman Kernel, computing vector embeddings based on the coloring scheme produced by the algorithm. Additionally, I built a simple Graph Convolution Network (GCN) using a Normalized Adjacency Matrix and Node Attributes for Node Classification. I also implemented a model to compute node2vec embeddings for graphs, training it for Node Classification tasks on the Citeseer and Cora datasets, and Link Prediction tasks on Facebook and PPI datasets. Furthermore, I developed a Message Passing Graph Neural Network and performed a regression task on the ZINC dataset.
 
 ### AI Snake Game , 2022
 
+<p align="center">
+  <img src="snake_demo.gif" alt="snake_demo"><br>
+</p>
+
 [Github](https://github.com/supreetshm947/AISnake)
+
+Developed a self-playing Snake game using Reinforcement Learning, leveraging the Bellman Equation to update model parameters. The game’s user interface was created with PyGame, while the model itself was built using PyTorch.
 
 ### Covid Tableau Dashboard, 2022
 
 [Tableau](https://public.tableau.com/app/profile/supreet.sharma/viz/Covid_data_demo)
+
+<p align="center">
+  <img src="covid_dashboard.jpg" alt="covid_dashboard"><br>
+</p>
+
+
