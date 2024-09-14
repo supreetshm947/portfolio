@@ -22,7 +22,7 @@
 - Java Web Developer for Cross Border Payment Sysem, WorldLink. 
 
 ## Projects
-### Learning Heuristics for Counting Problems with GNN - Masters Thesis, 2024
+### Learning Heuristics for Counting Problems with Graph Neural Networks - Masters Thesis, 2024
 [GitLab](https://git.rwth-aachen.de/supreetshm947/anycsp_enum/)
 
 <p align="center">
