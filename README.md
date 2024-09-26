@@ -55,7 +55,7 @@ I implemented a holistic machine learning workflow, including deployment, for an
 
 ### Semantic Analyser
 
-[Github]([https://github.com/supreetshm947/SemanticAnalyzer)
+[Github](https://github.com/supreetshm947/SemanticAnalyzer)
 
 In this project, I implemented SemanticAnalyzer, a sentiment analysis tool that classifies text reviews as either positive or negative. Using the PyTorch framework, which includes a Deep Learning Network, to capture the nuances of language and context. The model is trained and evaluated on the IMDB movie review [Dataset](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews).
 
