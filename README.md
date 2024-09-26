@@ -53,6 +53,12 @@ Developed a comprehensive data pipeline for acquiring both real-time and histori
 
 I implemented a holistic machine learning workflow, including deployment, for an image classification model built with PyTorch and trained on the CIFAR-100 dataset. The MLOps pipeline was developed using ZenML for orchestration, covering all stages from data ingestion and processing to model training, evaluation, and deployment. I created a Streamlit application as the web user interface, allowing end users to upload and classify images. Additionally, I set up a FastAPI server for backend services to facilitate communication between the Streamlit app and the deployed model on the MLOps server for inference. The goal was to showcase the integration of machine learning pipelines with MLOps tools and demonstrate how to serve a deep learning model using a modern full-stack setup.
 
+### Semantic Analyser
+
+[Github]([https://github.com/supreetshm947/SemanticAnalyzer)
+
+In this project, I implemented SemanticAnalyzer, a sentiment analysis tool that classifies text reviews as either positive or negative. Using the PyTorch framework, which includes a Deep Learning Network, to capture the nuances of language and context.
+
 ### Graph Learning, 2021
 
 [Github](https://github.com/supreetshm947/GraphLearning)
