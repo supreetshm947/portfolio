@@ -7,7 +7,7 @@
 - B.Tech., Computer Science | SRM University, Chennai, India (_June 2016_)
 
 ## Work Experience
-**Generative AI Developer (Student Assistant) @ E.ON Energy Research Center (_December 2023 – July 2024)**
+**Generative AI Developer (Student Assistant) @ E.ON Energy Research Center (_December 2023 – July 2024_)**
 
 **Data Engineer @ Munich RE (_April 2023 – October 2023_)**
 
@@ -32,7 +32,7 @@ The model introduces a novel Graph Representation called the Constraint Value Gr
 ### GenAIStackOverflow
 [Github](https://github.com/supreetshm947/CryptoDataPipeline)
 
-Developed a GenAI project which involves fetching relevant, answered StackOverflow posts using the API, generating vector embeddings with Cohere, and storing them in Qdrant or ElasticSearch for similarity matching. The post data is stored in PostgreSQL, while the RAG system retrieves relevant posts and combines them with user queries for LLM-driven responses. The frontend is built with Streamlit, and Docker with GitLab CI/CD ensures streamlined deployment and scalability.
+Developed a GenAI project which involves fetching relevant, answered StackOverflow posts using the API, generating vector embeddings with Cohere, and storing them in ElasticSearch as vector embeddings for similarity matching. The post data is stored in PostgreSQL, while the RAG system retrieves relevant posts and combines them with user queries for LLM-driven responses. The frontend is built with Streamlit, and Docker with GitLab CI/CD ensures streamlined deployment and scalability.
 
 ### CryptoDataPipeline
 [Github](https://github.com/supreetshm947/CryptoDataPipeline)
