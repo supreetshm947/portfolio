@@ -30,7 +30,7 @@ Built on the foundation of [ANYCSP](https://arxiv.org/abs/2208.10227), which add
 The model introduces a novel Graph Representation called the Constraint Value Graph, which represents input CSP problems and processes them through a Recurrent Graph Neural Network sampling a list of solutions. It is trained through Reinforcement learning on a configurable training distribution that generates random instances.
 
 ### GenAIStackOverflow
-[Github](https://github.com/supreetshm947/CryptoDataPipeline)
+[Github](https://github.com/supreetshm947/GenAIStackOverflow)
 
 Developed a GenAI project which involves fetching relevant, answered StackOverflow posts using the API, generating vector embeddings with Cohere, and storing them in ElasticSearch for similarity matching. The post data is stored in PostgreSQL, while the RAG system retrieves relevant posts and combines them with user queries for LLM-driven responses. The frontend is built with Streamlit, and Docker with GitLab CI/CD ensures streamlined deployment and scalability.
 
