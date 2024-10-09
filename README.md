@@ -7,18 +7,13 @@
 - B.Tech., Computer Science | SRM University, Chennai, India (_June 2016_)
 
 ## Work Experience
-**Generative AI Developer (Student Assistant) @ E.ON Energy Research Center (_December 2023 – Present_)**
-- Developed a chain using RAGs to integrate a Large Language Model for generating attack graphs based on Power Grid network infrastructure context from a Neo4j database. Improved the detection pipeline’s performance by replacing the slower MULVAL-based attack detection method, resulting in a significant boost in efficiency.
+**Generative AI Developer (Student Assistant) @ E.ON Energy Research Center (_December 2023 – July 2024)**
 
 **Data Engineer @ Munich RE (_April 2023 – October 2023_)**
-- Processed, cleansed, and analyzed unstructured cyber insurance data from various clients, identifying and rectifying data quality issues to enhance accuracy and reliability for underwriters and risk assessments.
-- Developed Power BI dashboards for internal stakeholders, providing detailed insights and analysis into insurance data.
 
 **Research and Development Engineer @ Dassault Systèmes (_February 2018 – March 2020_)**
-- Developed and maintained various components for Dassault’s PLM Tool ENOVIA, including Web UI and backend components.
 
 **Assistant System Engineer @ Tata Consultancy Services (_May 2016 - February 2018_)**
-- Java Web Developer for Cross Border Payment System, WorldLink. 
 
 ## Projects
 ### Learning Heuristics for Counting Problems with Graph Neural Networks - Masters Thesis, 2024
@@ -33,6 +28,11 @@
 Built on the foundation of [ANYCSP](https://arxiv.org/abs/2208.10227), which addresses Constraint Satisfaction Problems (CSPs) as a decision problem, this work extends its application to counting problems in Graph Coloring and Boolean Satisfiability.
 
 The model introduces a novel Graph Representation called the Constraint Value Graph, which represents input CSP problems and processes them through a Recurrent Graph Neural Network sampling a list of solutions. It is trained through Reinforcement learning on a configurable training distribution that generates random instances.
+
+### GenAIStackOverflow
+[Github](https://github.com/supreetshm947/CryptoDataPipeline)
+
+Developed a GenAI project which involves fetching relevant, answered StackOverflow posts using the API, generating vector embeddings with Cohere, and storing them in Qdrant or ElasticSearch for similarity matching. The post data is stored in PostgreSQL, while the RAG system retrieves relevant posts and combines them with user queries for LLM-driven responses. The frontend is built with Streamlit, and Docker with GitLab CI/CD ensures streamlined deployment and scalability.
 
 ### CryptoDataPipeline
 [Github](https://github.com/supreetshm947/CryptoDataPipeline)
