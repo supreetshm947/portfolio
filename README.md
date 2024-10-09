@@ -7,13 +7,13 @@
 - B.Tech., Computer Science | SRM University, Chennai, India (_June 2016_)
 
 ## Work Experience
-**Generative AI Developer (Student Assistant) @ E.ON Energy Research Center (_December 2023 – July 2024_)**
+- **Generative AI Developer (Student Assistant) @ E.ON Energy Research Center (_December 2023 – July 2024_)**
 
-**Data Engineer @ Munich RE (_April 2023 – October 2023_)**
+- **Data Engineer @ Munich RE (_April 2023 – October 2023_)**
 
-**Research and Development Engineer @ Dassault Systèmes (_February 2018 – March 2020_)**
+- **Research and Development Engineer @ Dassault Systèmes (_February 2018 – March 2020_)**
 
-**Assistant System Engineer @ Tata Consultancy Services (_May 2016 - February 2018_)**
+- **Assistant System Engineer @ Tata Consultancy Services (_May 2016 - February 2018_)**
 
 ## Projects
 ### Learning Heuristics for Counting Problems with Graph Neural Networks - Masters Thesis, 2024
