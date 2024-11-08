@@ -33,7 +33,7 @@ The model introduces a novel Graph Representation called the Constraint Value Gr
 [Github](https://github.com/supreetshm947/VirtualMindsTask_Airflow)
 
 <p align="center">
-  <img src="https://github.com/supreetshm947/VirtualMindsTask_Airflow/blob/main/workflow.png" alt="grid"><br>
+  <img src="mlops_workflow.png" alt="grid"><br>
 </p>
 
 A Machine Learning pipeline orchestrated using Apache Airflow that automates model training, experiment tracking using MLflow, model artifact storage in MinIO, and deployment of the trained model as a FastAPI service. Additionally, it provides CI/CD automation for deploying Docker images to Kubernetes, and monitoring with Prometheus, InfluxDB, and Grafana, sending Alerts on Slack.
