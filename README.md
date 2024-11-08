@@ -29,6 +29,15 @@ Built on the foundation of [ANYCSP](https://arxiv.org/abs/2208.10227), which add
 
 The model introduces a novel Graph Representation called the Constraint Value Graph, which represents input CSP problems and processes them through a Recurrent Graph Neural Network sampling a list of solutions. It is trained through Reinforcement learning on a configurable training distribution that generates random instances.
 
+### End-to-end Model Deployment Pipeline
+[Github](https://github.com/supreetshm947/VirtualMindsTask_Airflow)
+
+<p align="center">
+  <img src="https://github.com/supreetshm947/VirtualMindsTask_Airflow/blob/main/workflow.png" alt="grid"><br>
+</p>
+
+A Machine Learning pipeline orchestrated using Apache Airflow that automates model training, experiment tracking using MLflow, model artifact storage in MinIO, and deployment of the trained model as a FastAPI service. Additionally, it provides CI/CD automation for deploying Docker images to Kubernetes, and monitoring with Prometheus, InfluxDB, and Grafana, sending Alerts on Slack.
+
 ### GenAIStackOverflow
 [Github](https://github.com/supreetshm947/GenAIStackOverflow)
 
