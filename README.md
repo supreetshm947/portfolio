@@ -76,7 +76,7 @@ In this project, I implemented SemanticAnalyzer, a sentiment analysis tool that 
 
 ### Graph Learning, 2021
 
-[Github](https://github.com/supreetshm947/GraphLearning)
+[Github](https://github.com/supreetshm947/Graph_ML)
 
 <p align="center">
   <img src="node_embedding.webp" alt="node_embedding"><br>
