@@ -34,7 +34,7 @@ The model introduces a novel Graph Representation called the Constraint Value Gr
 [Github](https://github.com/supreetshm947/document_conv_agent)
 
 <p align="center">
-  <img src="n8n_workflow.png" alt="grid"><br>
+  <img src="workflow_n8n.png" alt="grid"><br>
 </p>
 
 An AI Agent designed for seamless interaction with documents, built using n8n (workflow automation platform), Gemini, and Supabase. This system automates document ingestion from Google Drive, transforms them into embeddings with Cohere, and stores them in a vector database to enable fast and accurate semantic search.
