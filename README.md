@@ -31,14 +31,14 @@ Built on the foundation of [ANYCSP](https://arxiv.org/abs/2208.10227), which add
 
 The model introduces a novel Graph Representation called the Constraint Value Graph, which represents input CSP problems and processes them through a Recurrent Graph Neural Network sampling a list of solutions. It is trained through Reinforcement learning on a configurable training distribution that generates random instances.
 
-**TechStack:** Python, Pytorch, Numpy, NetworkX, Pandas, Matplotlib, Tensorboard, Deep Learning, Convolution Neural Networks, Graph Neural Networks, Recurrent Neural Networks, Reinforcement Learning
-
 ### Document Chat Agent with n8n
 [Github](https://github.com/supreetshm947/document_conv_agent)
 
 <p align="center">
   <img src="workflow_n8n.png" alt="grid"><br>
 </p>
+
+**TechStack:** Docker, N8N, RAG, Vector Database, Vector Embeddings, Webhooks, Cohere, Gemini, Google AI Studio, GenAI, Large Language Models
 
 An AI Agent designed for seamless interaction with documents, built using n8n (workflow automation platform), Gemini, and Supabase. This system automates document ingestion from Google Drive, transforms them into embeddings with Cohere, and stores them in a vector database to enable fast and accurate semantic search.
 
