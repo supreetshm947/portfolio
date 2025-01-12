@@ -38,7 +38,7 @@ The model introduces a novel Graph Representation called the Constraint Value Gr
   <img src="workflow_n8n.png" alt="grid"><br>
 </p>
 
-**TechStack:** Docker, N8N, RAG, Vector Database, Vector Embeddings, Webhooks, Supabase, Cohere, Gemini, Google AI Studio, GenAI, Large Language Models
+**TechStack:** Docker, N8N, RAG, Vector Database, Vector Embeddings, Webhooks, Supabase, Cohere, Gemini, Google AI Studio, GenAI, Large Language Models, Make (Build)
 
 An AI Agent designed for seamless interaction with documents, built using n8n (workflow automation platform), Gemini, and Supabase. This system automates document ingestion from Google Drive, transforms them into embeddings with Cohere, and stores them in a vector database to enable fast and accurate semantic search.
 
@@ -49,7 +49,7 @@ An AI Agent designed for seamless interaction with documents, built using n8n (w
   <img src="mlops_workflow.png" alt="grid"><br>
 </p>
 
-**TechStack:** Python, Scikit-learn, MLFlow, S3, Minio, DAGs, Airflow, Docker, Kubernetes, Grafana, Influx Time Series Database, Prometheus, Alert Manager, Push Gateway, Slack
+**TechStack:** Python, Scikit-learn, MLFlow, S3, Minio, DAGs, Apache Airflow, Docker, Kubernetes, Grafana, Influx Time Series Database, Prometheus, Alert Manager, Push Gateway, Slack, Make (Build)
 
 A Machine Learning pipeline orchestrated using Apache Airflow that automates model training, experiment tracking using MLflow, model artifact storage in MinIO, and deployment of the trained model as a FastAPI service. Additionally, it provides CI/CD automation for deploying Docker images to Kubernetes, and monitoring with Prometheus, InfluxDB, and Grafana, sending Alerts on Slack.
 
@@ -60,7 +60,7 @@ A Machine Learning pipeline orchestrated using Apache Airflow that automates mod
   <img src="genai_workflow.png" alt="genai_workflow"><br>
 </p>
 
-**TechStack:** Python, Langchain, Streamlit, Docker, RAG, Large Language Models, Vector Database, Vector Embeddings, Qdrant, PostgreSQL, Gemini, Cohere
+**TechStack:** Python, Langchain, Streamlit, Docker, RESTful API (StackOverflow API), RAG, Large Language Models, Vector Database, Vector Embeddings, Qdrant, PostgreSQL, Gemini, Cohere, Make (Build)
 
 Developed a GenAI project which involves fetching relevant, answered StackOverflow posts using the API, generating vector embeddings with Cohere, and storing them in Qdrant for similarity matching. The post data is stored in PostgreSQL, while the RAG system retrieves relevant posts and combines them with user queries for LLM-driven responses. The frontend is built with Streamlit, and Docker with GitLab CI/CD ensures streamlined deployment and scalability.
 
@@ -70,6 +70,8 @@ Developed a GenAI project which involves fetching relevant, answered StackOverfl
 <p align="center">
   <img src="crypto_app_flow.png" alt="crypto_app"><br>
 </p>
+
+**TechStack:** Python, PySpark, Pandas, Streamlit, ETL Data Pipeline, RESTful API (Reddit, Coin Paprika API), Apache Airflow, Apache Spark, S3, Delta Format, Minio, Docker, Make (Build)
 
 Developed a comprehensive data pipeline for acquiring both real-time and historical cryptocurrency pricing data, as well as related Reddit submissions. Orchestrated data collection with Apache Airflow and used PySpark to load data into a Datalake via a Minio Docker Container. Implemented real-time trend analysis by collecting Reddit submissions through Airflow DAGs, storing them in Elasticsearch, and later in Datalake parquet format for sentiment analysis. This ongoing personal project focuses on integrating sentiment analysis with pricing data and plans to incorporate LLMs using Retrieval-Augmented Generation (RAG).
 
@@ -81,14 +83,17 @@ Developed a comprehensive data pipeline for acquiring both real-time and histori
   <img src="mlflow_classifier.png" alt="mlflow_classifier"><br>
 </p>
 
+**TechStack:** Python, Scikit-learn, MLFlow, S3, Minio, ZenML, Make (Build)
+
 I implemented a holistic machine learning workflow, including deployment, for an image classification model built with PyTorch and trained on the CIFAR-100 dataset. The MLOps pipeline was developed using ZenML for orchestration, covering all stages from data ingestion and processing to model training, evaluation, and deployment. I created a Streamlit application as the web user interface, allowing end users to upload and classify images. Additionally, I set up a FastAPI server for backend services to facilitate communication between the Streamlit app and the deployed model on the MLOps server for inference. The goal was to showcase the integration of machine learning pipelines with MLOps tools and demonstrate how to serve a deep learning model using a modern full-stack setup.
 
 ### Semantic Analyser
 
 [Github](https://github.com/supreetshm947/SemanticAnalyzer)
 
-In this project, I implemented SemanticAnalyzer, a sentiment analysis tool that classifies text reviews as either positive or negative. Using the PyTorch framework, which includes a Deep Learning Network, to capture the nuances of language and context. The model is trained and evaluated on the IMDB movie review [Dataset](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews).
+**TechStack:** Natural Language Processing, Python, Pytorch, NLTK, kaggle, Pandas
 
+In this project, I implemented SemanticAnalyzer, a sentiment analysis tool that classifies text reviews as either positive or negative. Using the PyTorch framework, which includes a Deep Learning Network, to capture the nuances of language and context. The model is trained and evaluated on the IMDB movie review [Dataset](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews).
 
 ### Graph Learning, 2021
 
@@ -99,6 +104,8 @@ In this project, I implemented SemanticAnalyzer, a sentiment analysis tool that 
   <em><a href="https://medium.com/the-modern-scientist/graph-neural-networks-series-part-3-node-embedding-36613cc967d5">SOURCE</a></em>
 </p>
 
+**TechStack:** Graph Learning, Python, Pytorch, scikit-learn, Vector Embeddings, Node2Vec, Graph Neural Networks, Graph Convolution Networks, Graph Attention Networks
+
 I took a Graph Learning Laboratory course in the Summer of 2021 during my Master's, where I was introduced to and implemented various Graph Learning algorithms, evaluating them on multiple datasets. Throughout the lab, I implemented the Graphlet Kernel and Closed Walk Kernel to obtain vector embeddings and worked on the Weisfeiler-Leman Kernel, computing vector embeddings based on the coloring scheme produced by the algorithm. Additionally, I built a simple Graph Convolution Network (GCN) using a Normalized Adjacency Matrix and Node Attributes for Node Classification. I also implemented a model to compute node2vec embeddings for graphs, training it for Node Classification tasks on the Citeseer and Cora datasets, and Link Prediction tasks on Facebook and PPI datasets. Furthermore, I developed a Message Passing Graph Neural Network and performed a regression task on the ZINC dataset.
 
 ### AI Snake Game , 2022
@@ -107,6 +114,8 @@ I took a Graph Learning Laboratory course in the Summer of 2021 during my Master
 <p align="center">
   <img src="snake_demo.gif" alt="snake_demo"><br>
 </p>
+
+**TechStack:** Python, Pytorch, Matplotlib, PyGame, Reinforcement Learning
 
 Developed a self-playing Snake game using Reinforcement Learning, leveraging the Bellman Equation to update model parameters. The game’s user interface was created with PyGame, while the model itself was built using PyTorch.
 
@@ -117,6 +126,8 @@ Developed a self-playing Snake game using Reinforcement Learning, leveraging the
 <p align="center">
   <img src="covid_dashboard.jpg" alt="covid_dashboard"><br>
 </p>
+
+**TechStack:** Tableau, Data Visualization
 
 Performed data exploration on Covid data using SQL, and then imported the analyzed data into Tableau to develop a dashboard that visualized Covid infection rates around the world.
 
