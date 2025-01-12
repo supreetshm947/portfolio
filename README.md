@@ -38,7 +38,7 @@ The model introduces a novel Graph Representation called the Constraint Value Gr
   <img src="workflow_n8n.png" alt="grid"><br>
 </p>
 
-**TechStack:** Docker, N8N, RAG, Vector Database, Vector Embeddings, Webhooks, Cohere, Gemini, Google AI Studio, GenAI, Large Language Models
+**TechStack:** Docker, N8N, RAG, Vector Database, Vector Embeddings, Webhooks, Supabase, Cohere, Gemini, Google AI Studio, GenAI, Large Language Models
 
 An AI Agent designed for seamless interaction with documents, built using n8n (workflow automation platform), Gemini, and Supabase. This system automates document ingestion from Google Drive, transforms them into embeddings with Cohere, and stores them in a vector database to enable fast and accurate semantic search.
 
@@ -49,6 +49,8 @@ An AI Agent designed for seamless interaction with documents, built using n8n (w
   <img src="mlops_workflow.png" alt="grid"><br>
 </p>
 
+**TechStack:** Python, Scikit-learn, MLFlow, S3, Minio, DAGs, Airflow, Docker, Kubernetes, Grafana, Influx Time Series Database, Prometheus, Alert Manager, Push Gateway, Slack
+
 A Machine Learning pipeline orchestrated using Apache Airflow that automates model training, experiment tracking using MLflow, model artifact storage in MinIO, and deployment of the trained model as a FastAPI service. Additionally, it provides CI/CD automation for deploying Docker images to Kubernetes, and monitoring with Prometheus, InfluxDB, and Grafana, sending Alerts on Slack.
 
 ### GenAIStackOverflow
@@ -57,6 +59,8 @@ A Machine Learning pipeline orchestrated using Apache Airflow that automates mod
 <p align="center">
   <img src="genai_workflow.png" alt="genai_workflow"><br>
 </p>
+
+**TechStack:** Python, Langchain, Streamlit, Docker, RAG, Large Language Models, Vector Database, Vector Embeddings, Qdrant, PostgreSQL, Gemini, Cohere
 
 Developed a GenAI project which involves fetching relevant, answered StackOverflow posts using the API, generating vector embeddings with Cohere, and storing them in Qdrant for similarity matching. The post data is stored in PostgreSQL, while the RAG system retrieves relevant posts and combines them with user queries for LLM-driven responses. The frontend is built with Streamlit, and Docker with GitLab CI/CD ensures streamlined deployment and scalability.
 
