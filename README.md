@@ -1,6 +1,6 @@
 # Data Scientist | Software Developer
 #### 👷🏼 [https://www.linkedin.com/in/supreet-sharma-082bb4100/](https://www.linkedin.com/in/supreet-sharma-082bb4100/)
-#### 💻 [https://github.com/supreetshm947](https://github.com/supreetshm947)
+#### 💻 [Github](https://github.com/supreetshm947)
 #### 📜 [Resume](https://github.com/supreetshm947/portfolio/blob/main/Supreet_Sharma_Resume.pdf)
 #### Technical Skills: Python, Pytorch, MLOps, Generative AI, DevOps, AWS, DATALAKE, Java, SQL
 
